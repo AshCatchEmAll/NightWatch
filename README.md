@@ -1,5 +1,5 @@
 <div align="center"><h1>NightWatch</h1></div>
-<div align="center"><h1>Discord bot build to be a companion to a </h1></div>
+<div align="center"><h1>Discord bot buildtto be your companion under starry night</h1></div>
 
 
 <div align="center"><h3> Want an excuse? Just use Amuse ! </h3></div>
