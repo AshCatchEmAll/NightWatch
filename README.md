@@ -32,7 +32,7 @@
 ## Display Shots
 
 <div align="center"><img src ="image.png" width="600" height="400"></div><br/>
- <div align="center"> <img src ="imgOne.jpg" width="600" height="550"> </div> <br/>  <div align="center">  <img src ="imgThree.jpg" width="600" height="250">   </div><br/> <div align="center">  <img src ="intro.jpg" width="600" height="110"></div> <br/>
+ <div align="center"> <img src ="imgOne.jpg" width="600" height="550"> </div> <br/>  <div align="center">  <img src ="imgThree.jpg" width="600" height="250">   </div><br/> <div align="center">  <img src ="intro.jpg" width="600" height="110"></div>  <div align="center">  <img src ="form.jpg" width="600" height="300"></div><br/>
 
 ## Running the project
 The project is setup in such a way that you can run it using bunch of repl's.
@@ -54,6 +54,8 @@ Rube goldberg implementation means accomplishing by complex means what seemingly
 - Requests are forwared to Node.js server for validating inputs. For example checking if month name is correct or page number is valid.
 - Any requests which need api calls are forwarded to Golang server after validating input through node.js server.  
 - Results are then returned from golang server to node.js to python to discord server. Beautiful !
+
+<div align="center"><img src ="form.jpg" width="750" height="350"></div><br/>
 
 ## Adding the bot
 Dont wanna run the project and just wanna get to using the bot? I gotchu.
