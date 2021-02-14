@@ -1,5 +1,5 @@
 <div align="center"><h1>NightWatch</h1></div>
-<div align="center"><h1>Discord bot built to be your companion under starry night</h1></div>
+<div align="center"><h3>Discord bot built to be your companion under starry night</h3></div>
 
 
 
