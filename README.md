@@ -47,15 +47,21 @@ The project is setup in such a way that you can run it using bunch of repl's. No
 Link to replit : https://repl.it/
 ```
 
-### Discord bot 
-- Make a new python repl and add all the files in discord folder to that repl. Please note that repl doesn't allow us to delete or rename main file so you have to update it by copying the code from main file in discord folder and pasting it in main file of your repl. Make a .env file and add your bot's token.
-- Creating discord bot account [https://discordpy.readthedocs.io/en/latest/discord.html]
+### Discord bot (Python)
+- Fork this repl : https://repl.it/@GottaCatchEmAll/montainPythonRepl#main.py
+- Make discord developer account and make a bot [https://discord.com/developers/docs/game-sdk/applications]
+- Add bot token in .env file
+- Update all url's to fit your username and node.js replit name
+
 
 ### Node.js
-- Make a new node.js repl and add all the files in node folder to that repl.
+- Fork this repl : https://repl.it/@GottaCatchEmAll/montainNodeRepl#index.js
+- Update the url's to fit your username and node.js replit name
+
 
 ### Golang
-- Make a new golang repl and add all the files in golang folder to that repl. 
+- Fork this repl : https://repl.it/@GottaCatchEmAll/mountainGoRepl#main.go
+- This repl can be used as a rest API. You can make frontend with anything and hit these endpoints to make an application.
 
 <b>NOTE:</b>For all the files please update the url used to hit endpoints accordingly.
 
