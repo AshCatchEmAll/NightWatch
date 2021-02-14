@@ -27,7 +27,7 @@
 
 ## Abiding by the theme
 <h3>Since the theme of this hackathon required us to base the name of the product on a book, I choose <b>NightWatch: A Practical Guide to Viewing the Universe.</b>NightWatch has been acclaimed as the best general interest introduction to astronomy.  </h3>
-
+<div align="center"><img width="300" height="400" src="book.jpg"/></div>
 
 ## Display Shots
 
