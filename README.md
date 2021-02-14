@@ -20,8 +20,8 @@
 - ✅ Get Data on a specific body
 - ✅ Get Astronomical calender
 - ✅ Get Horoscope based on sun sign
-- 🚧 Give options to get today's horoscope or month horoscope for a sun sign.
-- 🚧 Script to know when it will be dark enough to see the stars
+- ✅ Give options to get today's horoscope or month horoscope for a sun sign.
+- ✅ Script to know when it will be dark enough to see the stars
 - 🚧 Small discord game related to space colonization.
 - 🚧 Think of few more features
 
