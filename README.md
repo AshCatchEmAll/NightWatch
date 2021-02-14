@@ -51,6 +51,13 @@ The project is setup in such a way that you can run it using bunch of repl's.
 - Golang repl will make any api calls 
 - Python flask will do game specific functions
 
+## Adding the bot
+Dont wanna run the project and just wanna get to using the bot? I gotchu.
+```
+https://discord.com/api/oauth2/authorize?client_id=798667265418854460&permissions=1814559824&scope=bot
+
+```
+
 ## Contact info
 ```
 avichare@sfu.ca
