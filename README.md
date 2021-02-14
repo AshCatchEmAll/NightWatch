@@ -26,8 +26,12 @@
 
 ## Abiding by the theme
 <h3>Since the theme of this hackathon required us to base the name of the product on a book, I choose <b>NightWatch: A Practical Guide to Viewing the Universe.</b>NightWatch has been acclaimed as the best general interest introduction to astronomy.  </h3>
+
+
 ## Display Shots
 
+<div align="center"><img src ="image.png" width="600" height="350"></div><br/>
+ <div align="center"> <img src ="imgOne.jpg" width="600" height="450"> </div> <br/>  <div align="center">  <img src ="imgThree.jpg" width="600" height="250">   </div><br/> <div align="center">  <img src ="intro.jpg" width="600" height="110"></div> <br/>
 
 ## Running the project
 The project is setup in such a way that you can run it using bunch of repl's.
