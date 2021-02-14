@@ -55,7 +55,7 @@ Rube goldberg implementation means accomplishing by complex means what seemingly
 - Any requests which need api calls are forwarded to Golang server after validating input through node.js server.  
 - Results are then returned from golang server to node.js to python to discord server. Beautiful !
 
-<div align="center"><img src ="form.jpg" width="900" height="450"></div><br/>
+<div align="center"><img src ="form.jpg" width="900" height="400"></div><br/>
 
 ## Adding the bot
 Dont wanna run the project and just wanna get to using the bot? I gotchu.
