@@ -11,6 +11,7 @@
 - [Display Shots](#display-shots)
 - [Running the project](#running-the-project)
 - [Rube goldberg implementation](#rube-goldberg-implementation)
+- [Adding the bot](#adding-the-bot)
 - [Contact info](#contact-info)
 - [Member List](#member-list-and-github-repos)
 
