@@ -13,7 +13,7 @@
 - [Rube goldberg implementation](#rube-goldberg-implementation)
 - [Adding the bot](#adding-the-bot)
 - [Contact info](#contact-info)
-- [Member List](#member-list-and-github-repos)
+- [Member List](#member-list)
 
 ## Features
 - ✅ Get names of Solar system bodies
@@ -31,8 +31,8 @@
 
 ## Display Shots
 
-<div align="center"><img src ="image.png" width="600" height="350"></div><br/>
- <div align="center"> <img src ="imgOne.jpg" width="600" height="450"> </div> <br/>  <div align="center">  <img src ="imgThree.jpg" width="600" height="250">   </div><br/> <div align="center">  <img src ="intro.jpg" width="600" height="110"></div> <br/>
+<div align="center"><img src ="image.png" width="600" height="400"></div><br/>
+ <div align="center"> <img src ="imgOne.jpg" width="600" height="550"> </div> <br/>  <div align="center">  <img src ="imgThree.jpg" width="600" height="250">   </div><br/> <div align="center">  <img src ="intro.jpg" width="600" height="110"></div> <br/>
 
 ## Running the project
 The project is setup in such a way that you can run it using bunch of repl's.
@@ -41,16 +41,19 @@ The project is setup in such a way that you can run it using bunch of repl's.
 - Make a new python repl and add all the files in discord folder to that repl. Please note that repl doesn't allow us to delete or rename main file so you have to update it by copying the code from main file in discord folder and pasting it in main file of your repl
 
 ### Node.js
+- Make a new node.js repl and add all the files in node folder to that repl.
 
 ### Golang
+- Make a new golang repl and add all the files in golang folder to that repl. 
 
-### Python flask
+<b>NOTE:</b>For all the files please update the url used to hit endpoints accordingly.
 
 ## Rube goldberg implementation
-- Repl for discord bot will only do discord specific functions 
-- Node.js repl will check if input is valid or no
-- Golang repl will make any api calls 
-- Python flask will do game specific functions
+Rube goldberg implementation means accomplishing by complex means what seemingly could be done simply. Usually discord bots need only one server but this project has three in total. What's more is that each of these server's are implemented in 3 different languages namely python, node.js and golang ! Here's how they work together
+- Python server will do discord.py specific funuctions. 
+- Requests are forwared to Node.js server for validating inputs. For example checking if month name is correct or page number is valid.
+- Any requests which need api calls are forwarded to Golang server after validating input through node.js server.  
+- Results are then returned from golang server to node.js to python to discord server. Beautiful !
 
 ## Adding the bot
 Dont wanna run the project and just wanna get to using the bot? I gotchu.
