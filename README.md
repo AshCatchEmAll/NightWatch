@@ -1,8 +1,8 @@
 <div align="center"><h1>NightWatch</h1></div>
-<div align="center"><h1>Discord bot buildtto be your companion under starry night</h1></div>
+<div align="center"><h1>Discord bot built to be your companion under starry night</h1></div>
 
 
-<div align="center"><h3> Want an excuse? Just use Amuse ! </h3></div>
+
 <pre><div align="center"><img style="margin-right: 5px;" src="https://img.shields.io/badge/Python-3-brightgreen"/>  <img src="https://img.shields.io/badge/%20%20Uptime-99%25-orange"/> <img src="https://img.shields.io/badge/%20%20build-passing-green"/> <img src="https://img.shields.io/badge/%20%20contributers-1-informational"/> <img src="https://img.shields.io/badge/maintainability-A-yellow"/> </div></pre> 
 
 # Table of Content:
