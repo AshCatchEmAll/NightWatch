@@ -57,7 +57,7 @@ Link to replit : https://repl.it/
 
 ### Node.js
 - Fork this repl : https://repl.it/@GottaCatchEmAll/montainNodeRepl#index.js
-- Update the url's to fit your username and node.js replit name
+- Update the url's to fit your username and golang replit name
 
 
 
