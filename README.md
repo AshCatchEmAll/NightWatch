@@ -22,8 +22,8 @@
 - ✅ Get Horoscope based on sun sign
 - ✅ Give options to get today's horoscope or month horoscope for a sun sign.
 - ✅ Script to know when it will be dark enough to see the stars
-- 🚧 Small discord game related to space colonization.
-- 🚧 Think of few more features
+- 🚧 Get closed star gazing spots given a location.
+- 🚧 Get info about main meteor showers in recent future.
 
 ## Abiding by the theme
 <h4>Since the theme of this hackathon required us to base the name of the product on a book, I chose <b>NightWatch: A Practical Guide to Viewing the Universe. </b>NightWatch has been acclaimed as the best general interest introduction to astronomy.  </h4>
