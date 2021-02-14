@@ -42,7 +42,10 @@ https://discord.com/api/oauth2/authorize?client_id=798667265418854460&permission
 ```
 
 ## Running the project
-The project is setup in such a way that you can run it using bunch of repl's.
+The project is setup in such a way that you can run it using bunch of repl's. No need to download anything on your device !
+```
+Link to replit : https://repl.it/
+```
 
 ### Discord bot 
 - Make a new python repl and add all the files in discord folder to that repl. Please note that repl doesn't allow us to delete or rename main file so you have to update it by copying the code from main file in discord folder and pasting it in main file of your repl. Make a .env file and add your bot's token.
