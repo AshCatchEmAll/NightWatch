@@ -12,6 +12,7 @@
 - [Adding the bot](#adding-the-bot)
 - [Running the project](#running-the-project)
 - [Rube goldberg implementation](#rube-goldberg-implementation)
+- [API used](#api-used)
 - [Contact info](#contact-info)
 - [Member List](#member-list)
 
@@ -64,6 +65,11 @@ Rube goldberg implementation means accomplishing by complex means what seemingly
 
 <div align="center"><img src ="form.jpg" width="900" height="400"></div><br/>
 
+## API used
+- https://github.com/tapaswenipathak/Horoscope-API
+- https://api.le-systeme-solaire.net/en/
+- https://rhodesmill.org/skyfield/
+- https://in-the-sky.org/newscal.php?year=2021&month=8&maxdiff=7
 
 
 ## Contact info
