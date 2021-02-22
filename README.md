@@ -1,5 +1,6 @@
 <div align="center"><h1>NightWatch</h1></div>
 <div align="center"><h3>Discord bot built to be your companion under starry night</h3></div>
+<div align="center"><h3>🏆😄 The Rubey Price Winner for Mountain Madness Hackathon 2021😄🏆</h3></div>
 
 
 
