@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Abiding by the theme](#abiding-by-the-theme)
 - [Display Shots](#display-shots)
-- [Adding the bot](#adding-the-bot)
 - [Running the project](#running-the-project)
 - [Rube goldberg implementation](#rube-goldberg-implementation)
 - [API used](#api-used)
@@ -23,8 +22,7 @@
 - ✅ Get Horoscope based on sun sign
 - ✅ Give options to get today's horoscope or month horoscope for a sun sign.
 - ✅ Script to know when it will be dark enough to see the stars
-- 🚧 Get closed star gazing spots given a location.
-- 🚧 Get info about main meteor showers in recent future.
+
 
 ## Abiding by the theme
 <h4>Since the theme of this hackathon required us to base the name of the product on a book, I chose <b>NightWatch: A Practical Guide to Viewing the Universe. </b>NightWatch has been acclaimed as the best general interest introduction to astronomy.  </h4>
@@ -34,12 +32,6 @@
 
 <div align="center"><img src ="image.png" width="600" height="400"></div><br/>
  <div align="center"> <img src ="imgOne.jpg" width="600" height="550"> </div> <br/>  <div align="center">  <img src ="imgThree.jpg" width="600" height="250">   </div><br/> <div align="center">  <img src ="intro.jpg" width="600" height="110"></div> <br/>
-
-## Adding the bot
-Dont wanna run the project and just wanna get to using the bot? I gotchu.
-```
-https://discord.com/api/oauth2/authorize?client_id=798667265418854460&permissions=1814559824&scope=bot
-```
 
 ## Running the project
 The project is setup in such a way that you can run it using bunch of repl's. No need to download anything on your device !
