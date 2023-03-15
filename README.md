@@ -77,10 +77,6 @@ Rube goldberg implementation means accomplishing by complex means what seemingly
 - https://in-the-sky.org/newscal.php?year=2021&month=8&maxdiff=7
 
 
-## Contact info
-```
-avichare@sfu.ca
-```
 
 ## Member List
 ```
